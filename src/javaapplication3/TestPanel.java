@@ -33,7 +33,7 @@ public class TestPanel extends JPanel {
             frame.setLocationRelativeTo(null);
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             frame.setVisible(true);
-            frame.setVisible(true);
+            //frame.setVisible(true);
         });
     }
 }
